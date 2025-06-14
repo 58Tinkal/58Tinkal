@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#1abc9c;">Tinkal Kumar</span></h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate MERN Stack & Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=58tinkal&label=Profile%20views&color=1abc9c&style=for-the-badge" alt="58tinkal" />
@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on **Hospital Management**
 - 🌱 I’m learning **Node.js** and deepening my backend skills
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node.js, MongoDB, Express**
 - 📫 How to reach me: **tinkal300@gmail.com**
 
 ---
@@ -48,10 +48,23 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Professional Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,bootstrap,sass,tailwind,git,c,cpp,python,matlab" />
+  <!-- Core Stack -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,nextjs" />
+  <br />
+  <!-- Styling & UI -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui" />
+  <br />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,matlab" />
+  <br />
+  <!-- DevOps, Cloud & Testing -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,aws,vercel,netlify,postman,jest,figma" />
+  <br />
+  <!-- Bonus: Others -->
+  <img src="https://skillicons.dev/icons?i=graphql,azure,redis,prisma" />
 </p>
 
 ---
